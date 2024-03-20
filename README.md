@@ -1,2 +1,2 @@
 # JavAulas
-projetos das aulas
+projetos das aulas de linguagens comerciais
